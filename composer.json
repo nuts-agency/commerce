@@ -1,0 +1,14 @@
+{
+    "name": "nuts-agency/commerce",
+    "autoload": {
+        "psr-4": {
+            "NutsAgency\\Commerce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nuts"
+        }
+    ],
+    "require": {}
+}
